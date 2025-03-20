@@ -1,9 +1,9 @@
 ﻿# Computer Vision
  # 🖼️ Computer Vision avec Pillow - Exercices d'Initiation
 
-Bienvenue dans ce repository dédié aux exercices d'initiation à la **Computer Vision** en utilisant **Pillow (PIL)**, une bibliothèque Python spécialisée dans le traitement d'images. 🧑‍💻📸
+Bienvenue dans ce repository dédié aux exercices d'initiation à la **Computer Vision** en utilisant la bibliothèque Python **Pillow (PIL)**, spécialisée dans le traitement d'images. 🧑‍💻📸
 
-## 📌 Objectif du Projet
+## 📌 Objectifs du Projet
 
 Ce projet a pour but de proposer une série d'exercices pratiques permettant d'explorer les fonctionnalités essentielles de Pillow, notamment :
 - 📷 Chargement et affichage d'images.
@@ -23,7 +23,7 @@ L'installation de Pillow se fait en exécutant la commande suivante :
 pip install pillow
 ```
 
-## 📂 Structure du Repository
+## 📂 Documentation de Pillow
 
 ```
 https://pillow.readthedocs.io/en/stable/
